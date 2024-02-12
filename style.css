@@ -1,0 +1,14 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    font-size: 96px;
+    font-family: 'Foldit', sans-serif;
+    width: 100vw;
+    height: 100vh;
+}
+.pauza{
+    height: calc( 50% - 96px);
+}
+.blehh{
+    display: flex;
+}
